@@ -93,3 +93,28 @@
     background-size: cover;
   }
 
+  .s-spiderman-02-01 {
+    background-image: url('../images/spider-man-andrew/movie-01/background.png');
+    background-size: cover;
+  }
+
+  .s-spiderman-02-02 {
+    background-image: url('../images/spider-man-andrew/movie-02/background.png');
+    background-size: cover;
+  }
+
+  .s-spiderman-03-01 {
+    background-image: url('../images/spider-man-tom/movie-01/background.png');
+    background-size: cover;
+  }
+
+  .s-spiderman-03-02 {
+    background-image: url('../images/spider-man-tom/movie-02/background.png');
+    background-size: cover;
+  }
+
+  .s-spiderman-03-03 {
+    background-image: url('../images/spider-man-tom/movie-03/background.png');
+    background-size: cover;
+  }
+
